@@ -1,0 +1,37 @@
+# Training Configuration for NTU RGB+D
+model:
+  num_joints: 25
+  in_channels: 3
+  num_classes: 60
+  hidden_channels: [64, 128, 256]
+  temporal_kernel_sizes: [3, 3, 3]
+  dropout: 0.1
+  use_attention: false
+
+training:
+  batch_size: 64
+  num_epochs: 100
+  learning_rate: 0.001
+  weight_decay: 1e-4
+  sequence_length: 300
+  num_workers: 8
+  use_mixed_precision: true
+
+data:
+  data_path: "data/ntu_rgbd"
+  train_split: "s001_to_s017"
+  val_split: "s018_to_s032"
+  normalize: true
+  augment: false
+
+privacy:
+  use_privacy: false
+  epsilon: 1.0
+  delta: 1e-5
+  max_grad_norm: 1.0
+
+optimization:
+  gradient_clipping: true
+  max_grad_norm: 1.0
+  scheduler: "cosine"
+  warmup_epochs: 5
