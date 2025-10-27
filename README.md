@@ -1,9 +1,12 @@
 # PRISM: Privacy-Preserving Human Action Recognition via ε-Differential Private Spatial-Temporal Graph Networks
 
+![CI](https://github.com/Abduep53/PRISM-2.0/actions/workflows/ci.yml/badge.svg)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Privacy: ε-DP](https://img.shields.io/badge/Privacy-ε--DP-green.svg)](https://en.wikipedia.org/wiki/Differential_privacy)
+![Stars](https://img.shields.io/github/stars/Abduep53/PRISM-2.0)
+![Issues](https://img.shields.io/github/issues/Abduep53/PRISM-2.0)
 
 ## 🎯 Project Overview
 
