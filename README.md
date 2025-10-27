@@ -138,7 +138,7 @@ optimization_results = optimize_stgcn_model(
 prism/
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
-├── setup.py                          # Package installation
+├── setup.py                          # Packages installation
 ├── LICENSE                           # MIT License
 ├── .gitignore                        # Git ignore rules
 │
@@ -173,7 +173,7 @@ prism/
 │   └── features/                    # Kinematic features
 │
 ├── models/                          # Model checkpoints
-│   ├── baseline/                    # LSTM/GRU models
+│   ├── baseline/                    # LSTM/GRU models.
 │   ├── stgcn/                       # ST-GCN models
 │   └── optimized/                   # Quantized models
 │
