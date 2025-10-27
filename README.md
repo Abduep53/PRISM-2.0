@@ -173,7 +173,7 @@ prism/
 │   └── features/                    # Kinematic features
 │
 ├── models/                          # Model checkpoints
-│   ├── baseline/                    # LSTM/GRU models.
+│   ├── baseline/                    # LSTM/GRU models
 │   ├── stgcn/                       # ST-GCN models
 │   └── optimized/                   # Quantized models
 │
@@ -191,7 +191,7 @@ prism/
 - **Clinical Diagnostics**: Anonymous gait and posture assessment
 - **Rehabilitation**: Secure physical therapy progress tracking
 - **Security Systems**: Privacy-compliant surveillance and monitoring
-- **Human-Computer Interaction**: Private gesture recognition systems
+- **Human-Computer Interaction**: Private gesture recognition system
 
 ### Real-World Deployment Examples
 
