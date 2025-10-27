@@ -30,7 +30,7 @@ PRISM is a novel framework for privacy-preserving human action recognition that 
 
 ## 🚀 Quick Start
 
-### Installation
+###  Installation
 
 1. **Clone the repository:**
 ```bash
