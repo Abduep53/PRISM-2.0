@@ -8,27 +8,27 @@
 ![Stars](https://img.shields.io/github/stars/Abduep53/PRISM-2.0)
 ![Issues](https://img.shields.io/github/issues/Abduep53/PRISM-2.0)
 
-## 🎯 Project Overview
+## Project Overview
 
 PRISM is a novel framework for privacy-preserving human action recognition that integrates ε-differential privacy with spatial-temporal graph convolutional networks (ST-GCNs). The project addresses the critical privacy-utility tradeoff in pose-based action recognition by providing provable privacy guarantees while maintaining competitive classification performance.
 
 ### Key Features
 
-- **🔒 Differential Privacy**: Provable ε-differential privacy guarantees using DP-SGD
-- **🧠 Spatial-Temporal Graph Networks**: Advanced ST-GCN architecture for pose sequence analysis
-- **⚡ Kinematic Feature Extraction**: Dimensionality reduction while preserving movement semantics
-- **📊 Comprehensive Benchmarking**: Rigorous evaluation across multiple performance metrics
-- **🚀 Model Optimization**: Post-training quantization and TorchScript export for deployment
-- **🏥 Real-World Ready**: Designed for sensitive applications like healthcare and clinical diagnostics
+- **Differential Privacy**: Provable ε-differential privacy guarantees using DP-SGD
+- **Spatial-Temporal Graph Networks**: Advanced ST-GCN architecture for pose sequence analysis
+- **Kinematic Feature Extraction**: Dimensionality reduction while preserving movement semantics
+- **Comprehensive Benchmarking**: Rigorous evaluation across multiple performance metrics
+- **Model Optimization**: Post-training quantization and TorchScript export for deployment
+- **Real-World Ready**: Designed for sensitive applications like healthcare and clinical diagnostics
 
 ### Scientific Contributions
 
-1. **First Application** of differential privacy to spatial-temporal graph networks for action recognition
+1. **One of the first Application** of differential privacy to spatial-temporal graph networks for action recognition
 2. **Novel Kinematic Pipeline** that reduces data dimensionality while preserving movement semantics
 3. **Comprehensive Evaluation Framework** demonstrating privacy-utility tradeoffs
 4. **Open-Source Implementation** enabling reproducible research and practical deployment
 
-## 🚀 Quick Start
+## Quick Start
 
 ###  Installation
 
@@ -105,7 +105,7 @@ optimization_results = optimize_stgcn_model(
 )
 ```
 
-## 📊 Benchmark Results
+## Benchmark Results
 
 ### Performance Comparison
 
@@ -132,7 +132,7 @@ optimization_results = optimize_stgcn_model(
 - **Medium Privacy (ε=1.0)**: 4.4% accuracy reduction, balanced tradeoff
 - **Low Privacy (ε=10.0)**: 1.1% accuracy reduction, higher utility
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 prism/
@@ -183,7 +183,7 @@ prism/
     └── optimization/                # Optimization results
 ```
 
-## 🔬 Research Applications
+## Research Applications
 
 ### Current Capabilities
 
@@ -201,7 +201,7 @@ prism/
 4. **Workplace Safety**: Monitor ergonomic compliance while protecting employee privacy
 5. **Smart Home Systems**: Enable gesture control without data collection concerns
 
-## 🔮 Future Research and RSI Goals
+## Future Research and RSI Goals
 
 ### Immediate Research Extensions (6-12 months)
 
@@ -307,7 +307,7 @@ prism/
 - [ ] Launch educational programs
 - [ ] Measure real-world impact metrics
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the research community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
 
@@ -327,11 +327,11 @@ We welcome contributions from the research community! Please see our [Contributi
 6. Push to the branch: `git push origin feature/amazing-feature`
 7. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Citation
+## Citation
 
 If you use PRISM in your research, please cite our paper:
 
@@ -345,13 +345,13 @@ If you use PRISM in your research, please cite our paper:
 }
 ```
 
-## 📞 Contact
+## Contact
 
-- **Project Lead**: [Your Name] ([email@institution.edu])
-- **GitHub Issues**: [Create an issue](https://github.com/your-username/prism/issues)
-- **Discussions**: [Join the discussion](https://github.com/your-username/prism/discussions)
+- **Project Lead**: [Yusufbek Abdurakhimov] ([abduyusufbek.2@gmail.com])
+- **GitHub Issues**: [Create an issue](https://github.com/Abduep53/prism/issues)
+- **Discussions**: [Join the discussion](https://github.com/Abduep53/prism/discussions)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 We thank the open-source community for the excellent tools and libraries that made this work possible, including PyTorch, PyTorch Geometric, Opacus, and MediaPipe. We also acknowledge the support of [Funding Sources] and [Institution].
 
