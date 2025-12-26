@@ -1,0 +1,40 @@
+run:
+  name: stgcn_dp_eps1.0
+  output_root: results/benchmarks
+  device: cuda
+  seed: 0
+
+data:
+  processed_root: data/ucf101/processed
+  splits_dir: data/ucf101/splits
+  split_id: 1
+  clip_len: 64
+  num_joints: 17
+  channels: 2
+  num_classes: 101
+
+train:
+  epochs: 30
+  batch_size: 64
+  lr: 0.001
+  weight_decay: 0.0001
+  num_workers: 2
+
+model:
+  type: stgcn
+  hidden_dim: 64
+  num_layers: 10
+  dropout: 0.5
+
+dp:
+  enabled: true
+  target_epsilon: 1.0
+  delta: 1e-5
+  max_grad_norm: 1.0
+  noise_multiplier: 1.2
+
+infer_bench:
+  enabled: true
+  batch_size: 1
+  warmup: 50
+  iters: 500
