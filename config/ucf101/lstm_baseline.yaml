@@ -1,0 +1,36 @@
+run:
+  name: lstm_baseline
+  output_root: results/benchmarks
+  device: cuda
+  seed: 0
+
+data:
+  processed_root: data/ucf101/processed
+  splits_dir: data/ucf101/splits
+  split_id: 1
+  clip_len: 64
+  num_joints: 17
+  channels: 2
+  num_classes: 101
+
+train:
+  epochs: 30
+  batch_size: 64
+  lr: 0.001
+  weight_decay: 0.0001
+  num_workers: 2
+
+model:
+  type: lstm
+  hidden_dim: 256
+  num_layers: 2
+  dropout: 0.3
+
+dp:
+  enabled: false
+
+infer_bench:
+  enabled: true
+  batch_size: 1
+  warmup: 50
+  iters: 500
