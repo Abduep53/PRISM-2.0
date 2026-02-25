@@ -526,4 +526,4 @@ We acknowledge the open-source community for datasets, tools, and libraries that
 
 **PRISM Model Zoo: Building a Community of Privacy-Preserving Models** 🚀🔒🧠
 
-*Last Updated: 2024*
+*Last Updated: 2026*
