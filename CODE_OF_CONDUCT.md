@@ -69,7 +69,7 @@ We take all reports seriously and will handle them with appropriate confidential
 - **Respect privacy**: Be mindful of privacy implications when sharing code or results
 
 ### Security
-- **Report security issues**: Privately report security vulnerabilities to prism-security@example.com
+- **Report security issues**: Privately report security vulnerabilities to abduyusufbek.2@gmail.com
 - **Follow secure practices**: Use secure coding practices and review security implications of changes
 - **Protect user data**: Implement proper security measures when handling any user data
 
@@ -88,7 +88,7 @@ Portions of this document were adapted from well-established open source communi
 
 ## Questions or Concerns?
 
-If you have questions about this Code of Conduct or need clarification on appropriate behavior, please contact the project maintainers at **prism-conduct@example.com**.
+If you have questions about this Code of Conduct or need clarification on appropriate behavior, please contact the project maintainers at **abduyusufbek.2@gmail.com**.
 
 ---
 
