@@ -7,7 +7,7 @@ We welcome contributions to PRISM! This document provides guidelines for contrib
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/your-username/prism.git
+   git clone https://github.com/Abduep53/prism.git
    cd prism
    ```
 3. **Create a virtual environment**:
