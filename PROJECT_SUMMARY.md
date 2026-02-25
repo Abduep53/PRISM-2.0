@@ -108,7 +108,7 @@ prism/
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/prism.git
+git clone https://github.com/Abduep53/prism.git
 cd prism
 python -m venv prism_env
 source prism_env/bin/activate  # Windows: prism_env\Scripts\activate
