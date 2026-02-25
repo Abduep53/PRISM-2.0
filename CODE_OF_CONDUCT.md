@@ -55,7 +55,7 @@ All community leaders are obligated to respect the privacy and security of the r
 
 If you experience or witness unacceptable behavior, or have any concerns about conduct within the PRISM community, please report it by:
 
-1. **Contacting the maintainers**: Email prism-conduct@example.com
+1. **Contacting the maintainers**: Email abduyusufbek.2@gmail.com
 2. **GitHub Issues**: Report in a private GitHub issue (will be kept confidential)
 3. **Direct contact**: Reach out to project maintainers directly
 
