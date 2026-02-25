@@ -34,7 +34,7 @@ PRISM is a novel framework for privacy-preserving human action recognition that 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/prism.git
+git clone https://github.com/Abduep53/prism.git
 cd prism
 ```
 
