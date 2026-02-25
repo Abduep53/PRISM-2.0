@@ -336,11 +336,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use PRISM in your research, please cite our paper:
 
 ```bibtex
-@article{prism2024,
+@article{prism2025,
   title={PRISM: Privacy-Preserving Human Action Recognition via ε-Differential Private Spatial-Temporal Graph Networks},
-  author={[Author Names]},
+  author={[Yusufbek Abdurakhimov]},
   journal={[Journal Name]},
-  year={2024},
+  year={2026},
   doi={[DOI]}
 }
 ```
