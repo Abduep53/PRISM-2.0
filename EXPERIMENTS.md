@@ -393,16 +393,16 @@ data:
 If you use these experimental results, please cite:
 
 ```bibtex
-@inproceedings{prism2024,
+@inproceedings{prism2025,
     title={PRISM: Privacy-Preserving Human Action Recognition via ε-Differential Private Spatial-Temporal Graph Networks},
-    author={[Authors]},
+    author={[Yusufbek Abdurakhimov]},
     booktitle={[Conference]},
-    year={2024}
+    year={2026}
 }
 ```
 
 ---
 
-**Last Updated**: 2024
+**Last Updated**: 2026
 
 **Contact**: For questions about experimental setup or results, please open a GitHub issue or contact the maintainers.
