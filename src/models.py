@@ -1098,3 +1098,4 @@ if __name__ == "__main__":
     print("\nModels are ready for training!")
     print("Use train_baseline() function to train the models.")
     print("Available models: 'lstm', 'gru', 'stgcn'")
+# minor update

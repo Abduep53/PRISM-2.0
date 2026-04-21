@@ -35,3 +35,4 @@ infer_bench:
   batch_size: 1
   warmup: 50
   iters: 500
+# minor update

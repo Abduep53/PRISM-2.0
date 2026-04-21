@@ -48,3 +48,4 @@ DP training uses DP-SGD (Opacus):
 - Achieved epsilon may be recorded if an accountant is used
 
 The benchmark table reports the configured privacy budget ε.
+minor update

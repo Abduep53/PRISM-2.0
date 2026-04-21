@@ -62,3 +62,4 @@ class STGCN(nn.Module):
         x = self.net(x)
         x = self.pool(x).squeeze(-1).squeeze(-1)
         return self.fc(x)
+# minor update

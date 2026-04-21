@@ -25,3 +25,4 @@ class LSTMBaseline(nn.Module):
         x = x.permute(0, 2, 1, 3).contiguous().view(B, T, C * V)
         out, _ = self.lstm(x)
         return self.head(out[:, -1, :])
+# minor update

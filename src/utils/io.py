@@ -39,3 +39,4 @@ def capture_git() -> str:
         return f"commit: {commit}\nstatus_porcelain:\n{status}\n"
     except Exception as e:
         return f"git_capture_error: {e}\n"
+# minor update

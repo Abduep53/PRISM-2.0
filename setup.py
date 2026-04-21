@@ -91,3 +91,4 @@ setup(
     ],
     zip_safe=False,
 )
+# minor update

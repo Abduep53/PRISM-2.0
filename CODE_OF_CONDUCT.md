@@ -93,3 +93,4 @@ If you have questions about this Code of Conduct or need clarification on approp
 ---
 
 **Remember**: The PRISM community is built on principles of respect, collaboration, and privacy preservation. By contributing to PRISM, you help create a better future for privacy-preserving AI. 🚀🔒🧠
+minor update

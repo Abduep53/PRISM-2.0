@@ -224,3 +224,4 @@ print(f"Current privacy: ε={current_epsilon:.4f}, δ={current_delta:.4f}")
 ---
 
 **The PRISM Privacy Module represents a significant advancement in privacy-preserving machine learning for human action recognition, providing both theoretical guarantees and practical implementation for real-world applications.**
+minor update
