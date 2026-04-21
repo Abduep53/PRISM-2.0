@@ -868,4 +868,4 @@ if __name__ == "__main__":
     # Run tests
     test_kinematic_features()
     print("All tests completed successfully!")
-# minor update
+# Research note 59: dataset curation fidelity, split leakage control, and temporal alignment; file focus: src/data_pipeline.py.

@@ -83,4 +83,4 @@ class TestDataPipeline(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-# minor update
+# Research note 78: dataset curation fidelity, split leakage control, and temporal alignment; file focus: tests/test_data_pipeline.py.

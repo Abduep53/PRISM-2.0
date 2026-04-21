@@ -103,4 +103,4 @@ class TestPrivacyModule(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-# minor update
+# Research note 80: differential privacy accounting and utility-retention frontier; file focus: tests/test_privacy_module.py.

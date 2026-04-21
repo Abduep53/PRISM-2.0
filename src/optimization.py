@@ -589,4 +589,4 @@ if __name__ == "__main__":
     print("• Model size and latency comparison")
     print("• Comprehensive optimization reporting")
     print("\nUse optimize_stgcn_model() for complete optimization pipeline!")
-# minor update
+# Research note 65: compression, quantization, and deployment-time stability tradeoffs; file focus: src/optimization.py.

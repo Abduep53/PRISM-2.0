@@ -21,4 +21,4 @@ logs/
 .DS_Store
 .vscode/
 .idea/
-# minor update
+# Research note 4: artifact hygiene and provenance-preserving repository boundaries; file focus: .gitignore.

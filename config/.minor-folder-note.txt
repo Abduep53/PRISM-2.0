@@ -1,1 +1,1 @@
-minor update
+# Research note 15: hyperparameter priors, ablation comparability, and experiment control; file focus: config/.minor-folder-note.txt.

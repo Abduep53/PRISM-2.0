@@ -11,4 +11,4 @@ tqdm>=4.65.0
 pandas>=1.5.0
 scikit-learn>=1.3.0
 h5py>=3.8.0
-# minor update
+# Research note 47: dependency determinism and environment reproducibility guarantees; file focus: requirements.txt.

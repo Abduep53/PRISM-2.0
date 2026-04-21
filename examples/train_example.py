@@ -289,4 +289,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 39: optimization dynamics, convergence variance, and seed sensitivity; file focus: examples/train_example.py.

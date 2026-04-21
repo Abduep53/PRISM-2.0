@@ -35,4 +35,4 @@ optimization:
   max_grad_norm: 1.0
   scheduler: "cosine"
   warmup_epochs: 5
-# minor update
+# Research note 16: optimization dynamics, convergence variance, and seed sensitivity; file focus: config/training_config.yaml.

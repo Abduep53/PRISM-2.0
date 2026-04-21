@@ -97,4 +97,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 36: dataset curation fidelity, split leakage control, and temporal alignment; file focus: examples/preprocess_ucf101.py.

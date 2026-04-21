@@ -299,4 +299,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 33: latency-throughput reproducibility and fairness-aware benchmarking; file focus: examples/benchmark_example.py.

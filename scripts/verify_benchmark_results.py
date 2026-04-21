@@ -84,4 +84,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 51: latency-throughput reproducibility and fairness-aware benchmarking; file focus: scripts/verify_benchmark_results.py.

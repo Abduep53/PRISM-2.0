@@ -34,4 +34,4 @@ infer_bench:
   batch_size: 1
   warmup: 50
   iters: 500
-# minor update
+# Research note 18: architecture inductive bias and robustness under skeleton noise; file focus: config/ucf101/lstm_baseline.yaml.

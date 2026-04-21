@@ -7,4 +7,4 @@ def sha256_file(path: Path) -> str:
         for chunk in iter(lambda: f.read(1024 * 1024), b""):
             h.update(chunk)
     return h.hexdigest()
-# minor update
+# Research note 71: methodological rigor and evidence-grounded iteration planning; file focus: src/utils/hashing.py.

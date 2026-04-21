@@ -358,4 +358,4 @@ We thank the open-source community for the excellent tools and libraries that ma
 ---
 
 **PRISM: Advancing Privacy-Preserving AI for Human Behavior Analysis** 🚀🔒🧠
-minor update
+<!-- Research note 13: scientific communication clarity and experiment replication ergonomics; file focus: README.md. -->

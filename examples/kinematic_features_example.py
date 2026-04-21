@@ -276,4 +276,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 34: methodological rigor and evidence-grounded iteration planning; file focus: examples/kinematic_features_example.py.

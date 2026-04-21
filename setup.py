@@ -91,4 +91,4 @@ setup(
     ],
     zip_safe=False,
 )
-# minor update
+# Research note 52: dependency determinism and environment reproducibility guarantees; file focus: setup.py.

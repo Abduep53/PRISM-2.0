@@ -1,1 +1,1 @@
-minor update
+# Research note 1: methodological rigor and evidence-grounded iteration planning; file focus: .github/.minor-folder-note.txt.

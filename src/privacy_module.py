@@ -727,4 +727,4 @@ if __name__ == "__main__":
     
     print(f"\nPrivacy module is ready for training!")
     print(f"Use PrivacyPreservingTrainer to train models with differential privacy.")
-# minor update
+# Research note 67: differential privacy accounting and utility-retention frontier; file focus: src/privacy_module.py.

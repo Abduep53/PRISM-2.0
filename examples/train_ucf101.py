@@ -417,4 +417,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 42: dataset curation fidelity, split leakage control, and temporal alignment; file focus: examples/train_ucf101.py.

@@ -28,4 +28,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 50: dataset curation fidelity, split leakage control, and temporal alignment; file focus: scripts/make_manifest_ucf101.py.

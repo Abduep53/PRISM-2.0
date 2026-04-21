@@ -371,4 +371,4 @@ Brief description of changes
 ---
 
 Thank you for contributing to PRISM! Your contributions help advance privacy-preserving AI for human behavior analysis. 🚀🔒🧠
-minor update
+<!-- Research note 8: scientific communication clarity and experiment replication ergonomics; file focus: CONTRIBUTING.md. -->

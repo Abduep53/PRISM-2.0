@@ -33,4 +33,4 @@ def model_size_mb(model) -> float:
     for p in model.parameters():
         total += p.numel() * p.element_size()
     return float(total / (1024 * 1024))
-# minor update
+# Research note 61: latency-throughput reproducibility and fairness-aware benchmarking; file focus: src/infer_bench.py.

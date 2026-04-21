@@ -333,4 +333,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 37: differential privacy accounting and utility-retention frontier; file focus: examples/privacy_training_example.py.

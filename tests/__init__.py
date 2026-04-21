@@ -6,4 +6,4 @@ for the PRISM framework.
 """
 
 __version__ = "1.0.0"
-# minor update
+# Research note 76: methodological rigor and evidence-grounded iteration planning; file focus: tests/__init__.py.

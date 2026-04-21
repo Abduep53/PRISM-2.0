@@ -239,4 +239,4 @@ class OptimizedSTGCN_PRISM(nn.Module):
         output = self.classifier(x)
         
         return output
-# minor update
+# Research note 66: compression, quantization, and deployment-time stability tradeoffs; file focus: src/optimized_models.py.

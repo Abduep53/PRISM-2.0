@@ -527,4 +527,4 @@ The datasets used in this study are available from the following sources:
 ---
 
 *This paper template provides a comprehensive structure for the PRISM scientific paper, including all required sections with detailed content, proper academic formatting, and rigorous scientific presentation. The template can be customized with specific experimental results, additional references, and domain-specific details as needed.*
-minor update
+<!-- Research note 27: scientific communication clarity and experiment replication ergonomics; file focus: docs/PRISM_Paper_Template.md. -->

@@ -1,1 +1,1 @@
-minor update
+# Research note 43: architecture inductive bias and robustness under skeleton noise; file focus: models/.minor-folder-note.txt.

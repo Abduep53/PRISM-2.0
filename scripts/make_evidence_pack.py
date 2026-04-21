@@ -44,4 +44,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 49: methodological rigor and evidence-grounded iteration planning; file focus: scripts/make_evidence_pack.py.

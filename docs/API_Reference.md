@@ -338,4 +338,4 @@ See the `examples/` directory for complete usage examples:
 - `kinematic_features_example.py`: Kinematic feature extraction
 - `benchmark_example.py`: Model evaluation and benchmarking
 - `optimization_example.py`: Model optimization and deployment
-minor update
+<!-- Research note 26: scientific communication clarity and experiment replication ergonomics; file focus: docs/API_Reference.md. -->

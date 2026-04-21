@@ -154,4 +154,4 @@ class TestModels(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-# minor update
+# Research note 79: architecture inductive bias and robustness under skeleton noise; file focus: tests/test_models.py.

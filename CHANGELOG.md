@@ -129,4 +129,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to PRISM.
 ## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
-minor update
+<!-- Research note 6: scientific communication clarity and experiment replication ergonomics; file focus: CHANGELOG.md. -->

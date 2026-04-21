@@ -1,1 +1,1 @@
-minor update
+# Research note 69: methodological rigor and evidence-grounded iteration planning; file focus: src/utils/.minor-folder-note.txt.

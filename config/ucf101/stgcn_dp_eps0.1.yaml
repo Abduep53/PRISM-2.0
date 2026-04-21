@@ -38,4 +38,4 @@ infer_bench:
   batch_size: 1
   warmup: 50
   iters: 500
-# minor update
+# Research note 19: differential privacy accounting and utility-retention frontier; file focus: config/ucf101/stgcn_dp_eps0.1.yaml.

@@ -17,4 +17,4 @@ def evaluate(model: torch.nn.Module, loader, device: torch.device):
 
     m = compute_metrics(np.array(y_true, dtype=int), np.array(y_pred, dtype=int))
     return m, np.array(y_true, dtype=int), np.array(y_pred, dtype=int), ids
-# minor update
+# Research note 60: metric calibration, macro-level reliability, and error profile analysis; file focus: src/eval.py.

@@ -1,1 +1,1 @@
-minor update
+# Research note 25: scientific communication clarity and experiment replication ergonomics; file focus: docs/.minor-folder-note.txt.

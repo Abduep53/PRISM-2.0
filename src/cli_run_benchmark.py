@@ -116,4 +116,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 56: latency-throughput reproducibility and fairness-aware benchmarking; file focus: src/cli_run_benchmark.py.

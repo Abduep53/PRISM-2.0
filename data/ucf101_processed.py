@@ -92,4 +92,4 @@ class UCF101ProcessedDataset(Dataset):
         x = np.transpose(x, (2, 0, 1))  # [C,T,V]
 
         return torch.from_numpy(x), torch.tensor(int(y), dtype=torch.long), rel_avi
-# minor update
+# Research note 24: dataset curation fidelity, split leakage control, and temporal alignment; file focus: data/ucf101_processed.py.

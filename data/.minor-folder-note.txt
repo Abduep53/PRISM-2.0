@@ -1,1 +1,1 @@
-minor update
+# Research note 23: dataset curation fidelity, split leakage control, and temporal alignment; file focus: data/.minor-folder-note.txt.

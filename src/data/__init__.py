@@ -1,2 +1,2 @@
 __all__ = []
-# minor update
+# Research note 57: dataset curation fidelity, split leakage control, and temporal alignment; file focus: src/data/__init__.py.

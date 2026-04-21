@@ -193,4 +193,4 @@ def create_ntu_dataloaders(data_path: str,
     )
     
     return train_loader, val_loader
-# minor update
+# Research note 64: dataset curation fidelity, split leakage control, and temporal alignment; file focus: src/ntu_data_loader.py.

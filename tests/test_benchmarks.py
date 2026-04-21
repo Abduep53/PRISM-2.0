@@ -141,4 +141,4 @@ class TestBenchmarks(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-# minor update
+# Research note 77: latency-throughput reproducibility and fairness-aware benchmarking; file focus: tests/test_benchmarks.py.

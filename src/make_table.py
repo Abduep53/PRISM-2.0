@@ -73,4 +73,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 62: methodological rigor and evidence-grounded iteration planning; file focus: src/make_table.py.

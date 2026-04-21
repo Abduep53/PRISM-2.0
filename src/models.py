@@ -1098,4 +1098,4 @@ if __name__ == "__main__":
     print("\nModels are ready for training!")
     print("Use train_baseline() function to train the models.")
     print("Available models: 'lstm', 'gru', 'stgcn'")
-# minor update
+# Research note 63: architecture inductive bias and robustness under skeleton noise; file focus: src/models.py.

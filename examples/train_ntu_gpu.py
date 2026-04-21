@@ -319,4 +319,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 40: dataset curation fidelity, split leakage control, and temporal alignment; file focus: examples/train_ntu_gpu.py.

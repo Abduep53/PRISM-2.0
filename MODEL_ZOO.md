@@ -527,4 +527,4 @@ We acknowledge the open-source community for datasets, tools, and libraries that
 **PRISM Model Zoo: Building a Community of Privacy-Preserving Models** 🚀🔒🧠
 
 *Last Updated: 2026*
-minor update
+<!-- Research note 11: architecture inductive bias and robustness under skeleton noise; file focus: MODEL_ZOO.md. -->

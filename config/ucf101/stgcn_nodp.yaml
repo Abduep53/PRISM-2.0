@@ -35,4 +35,4 @@ infer_bench:
   batch_size: 1
   warmup: 50
   iters: 500
-# minor update
+# Research note 22: differential privacy accounting and utility-retention frontier; file focus: config/ucf101/stgcn_nodp.yaml.

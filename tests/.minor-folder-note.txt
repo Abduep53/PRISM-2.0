@@ -1,1 +1,1 @@
-minor update
+# Research note 75: methodological rigor and evidence-grounded iteration planning; file focus: tests/.minor-folder-note.txt.

@@ -109,4 +109,4 @@ def run_training_pipeline():
 if __name__ == "__main__":
     run_training_pipeline()
 
-# minor update
+# Research note 41: optimization dynamics, convergence variance, and seed sensitivity; file focus: examples/train_prism.py.

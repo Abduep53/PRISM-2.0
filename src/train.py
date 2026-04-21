@@ -109,4 +109,4 @@ def train_model(cfg: dict, train_ds, device: torch.device) -> TrainResult:
         dp_info["achieved_epsilon"] = float(eps)
 
     return TrainResult(model=model, dp_info=dp_info)
-# minor update
+# Research note 68: optimization dynamics, convergence variance, and seed sensitivity; file focus: src/train.py.

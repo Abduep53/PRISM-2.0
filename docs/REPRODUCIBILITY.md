@@ -37,4 +37,4 @@ Verify (no-questions proof)
 bash
 Copy code
 python scripts/verify_benchmark_results.py
-minor update
+<!-- Research note 29: reproducibility governance, milestone traceability, and audit readiness; file focus: docs/REPRODUCIBILITY.md. -->

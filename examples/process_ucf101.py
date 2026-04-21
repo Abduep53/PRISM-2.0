@@ -112,4 +112,4 @@ if __name__ == "__main__":
         print("Please ensure you have placed 'trainlist*.txt', 'testlist*.txt', and 'classInd.txt' inside the 'data/ucf_splits/' folder.")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
-# minor update
+# Research note 38: dataset curation fidelity, split leakage control, and temporal alignment; file focus: examples/process_ucf101.py.

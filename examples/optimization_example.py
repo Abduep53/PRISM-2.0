@@ -392,4 +392,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-# minor update
+# Research note 35: compression, quantization, and deployment-time stability tradeoffs; file focus: examples/optimization_example.py.
