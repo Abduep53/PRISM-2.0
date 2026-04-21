@@ -343,7 +343,7 @@ Brief description of changes
 - **GitHub Issues** for bug reports and feature requests
 - **GitHub Discussions** for questions and general discussion
 - **Pull Requests** for code contributions
-- **Email** for security issues (prism-security@example.com)
+- **Email** for security issues (abduyusufbek.2@gmail.com)
 
 ### Recognition
 - Contributors will be **acknowledged** in the README
